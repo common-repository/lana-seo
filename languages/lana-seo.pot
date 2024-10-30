@@ -1,0 +1,209 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lana SEO\n"
+"POT-Creation-Date: 2022-10-07 20:04+0200\n"
+"PO-Revision-Date: 2017-01-05 07:19+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: lana-seo.php:36
+msgid "Settings"
+msgstr ""
+
+#: lana-seo.php:49 lana-seo.php:200
+msgid "Lana SEO Settings"
+msgstr ""
+
+#: lana-seo.php:49 lana-seo.php:713
+msgid "Lana SEO"
+msgstr ""
+
+#: lana-seo.php:205
+msgid "Lana Codes"
+msgstr ""
+
+#: lana-seo.php:212
+msgid "Meta Settings"
+msgstr ""
+
+#: lana-seo.php:217
+msgid "Allowed meta"
+msgstr ""
+
+#: lana-seo.php:225 lana-seo.php:466
+msgid "Default Meta"
+msgstr ""
+
+#: lana-seo.php:227
+msgid "required"
+msgstr ""
+
+#: lana-seo.php:234 lana-seo.php:536
+msgid "Open Graph"
+msgstr ""
+
+#: lana-seo.php:240 lana-seo.php:603
+msgid "Dublin Core"
+msgstr ""
+
+#: lana-seo.php:248
+msgid "Post Type Settings"
+msgstr ""
+
+#: lana-seo.php:253 lana-seo.php:308
+msgid "Allow in"
+msgstr ""
+
+#: lana-seo.php:266 lana-seo.php:331
+msgid "post type"
+msgstr ""
+
+#: lana-seo.php:271
+msgid "This checkbox is disabled because it can only be changed using PHP code"
+msgstr ""
+
+#: lana-seo.php:272
+msgid " - feature by <code>add_post_type_support()</code>"
+msgstr ""
+
+#: lana-seo.php:285
+msgid "Automatic generation in"
+msgstr ""
+
+#: lana-seo.php:293
+msgid "Post"
+msgstr ""
+
+#: lana-seo.php:297
+msgid ""
+"If you haven't set a meta tag, the plugin automatically generate one from "
+"the existing data (post content, excerpt, post tag, featured image, ...)"
+msgstr ""
+
+#: lana-seo.php:303
+msgid "Taxonomy Settings"
+msgstr ""
+
+#: lana-seo.php:333
+msgid "taxonomy"
+msgstr ""
+
+#: lana-seo.php:348
+msgid "Save Changes"
+msgstr ""
+
+#: lana-seo.php:394
+msgid "Select Image"
+msgstr ""
+
+#: lana-seo.php:408
+msgid "Search Engine Optimization"
+msgstr ""
+
+#: lana-seo.php:427
+#, php-format
+msgid ""
+"Lana SEO is not allowed in this post type. Go to the <a href=\"%s"
+"\">Settings</a> page to allow it."
+msgstr ""
+
+#: lana-seo.php:475 lana-seo.php:720
+msgid "Meta Title"
+msgstr ""
+
+#: lana-seo.php:483 lana-seo.php:728
+msgid "Title on Default meta tag using Search Engine (e.g. Google)"
+msgstr ""
+
+#: lana-seo.php:490 lana-seo.php:735
+msgid "Meta Description"
+msgstr ""
+
+#: lana-seo.php:499 lana-seo.php:743
+#, php-format
+msgid "%s characters remaining"
+msgstr ""
+
+#: lana-seo.php:503 lana-seo.php:747
+msgid "Description on Default meta tag using Search Engine (e.g. Google)"
+msgstr ""
+
+#: lana-seo.php:510 lana-seo.php:754
+msgid "Meta Keywords"
+msgstr ""
+
+#: lana-seo.php:526 lana-seo.php:770
+msgid ""
+"Keywords on meta tag using Search Engine (e.g. Google). separated by a "
+"commas (,)"
+msgstr ""
+
+#: lana-seo.php:545 lana-seo.php:779
+msgid "Open Graph Title"
+msgstr ""
+
+#: lana-seo.php:553 lana-seo.php:787
+msgid "Title on Open Graph meta tag using Social Network (e.g. Facebook)"
+msgstr ""
+
+#: lana-seo.php:560 lana-seo.php:794
+msgid "Open Graph Description"
+msgstr ""
+
+#: lana-seo.php:568 lana-seo.php:802
+msgid "Description on Open Graph meta tag using Social Network (e.g. Facebook)"
+msgstr ""
+
+#: lana-seo.php:575 lana-seo.php:809
+msgid "Open Graph Image"
+msgstr ""
+
+#: lana-seo.php:587 lana-seo.php:821
+msgid "Upload Image"
+msgstr ""
+
+#: lana-seo.php:590 lana-seo.php:824
+msgid "Image on Open Graph meta tag using Social Network (e.g. Facebook)."
+msgstr ""
+
+#: lana-seo.php:592 lana-seo.php:826
+msgid "The recommended image size is 1200 × 630px."
+msgstr ""
+
+#: lana-seo.php:612
+msgid "Dublin Core Title"
+msgstr ""
+
+#: lana-seo.php:620
+msgid "Title on Dublic Core using Search Engine"
+msgstr ""
+
+#: lana-seo.php:627
+msgid "Dublin Core Description"
+msgstr ""
+
+#: lana-seo.php:635
+msgid "Description on Dublic Core using Search Engine"
+msgstr ""
+
+#: lana-seo.php:642
+msgid "Dublin Core Subject"
+msgstr ""
+
+#: lana-seo.php:658
+msgid ""
+"Subject and Keywords on on Dublic Core using Search Engine. separated by a "
+"semicolon (;)"
+msgstr ""
